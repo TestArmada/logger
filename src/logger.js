@@ -2,7 +2,7 @@ import { argv } from "yargs";
 import util from "util";
 import clc from "cli-color";
 
-const debug = argv.debug;
+const debug = argv.debug || process.env.TESTARMADA_LOGGER_DEBUG;
 
 const PREFIX = "Testarmada";
 

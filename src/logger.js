@@ -38,6 +38,6 @@ class Logger {
   loghelp(...msg) {
     this.output.log(util.format("%s", msg));
   }
-};
+}
 
 module.exports = new Logger();

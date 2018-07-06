@@ -33,3 +33,6 @@ logger.debug("debug infomation");
 Debug mode can be enabled by
  1. Add `TESTARMADA_LOGGER_DEBUG=true` as env variable, or
  2. Add `--debug` to your command
+ 
+ ## License
+Documentation in this project is licensed under Creative Commons Attribution 4.0 International License. Full details available at https://creativecommons.org/licenses/by/4.0

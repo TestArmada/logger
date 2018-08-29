@@ -4,8 +4,7 @@
   "description": "logger for testarmada family",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "lint": "./node_modules/.bin/eslint src/**"
+    "test": "jest"
   },
   "repository": {
     "type": "git",

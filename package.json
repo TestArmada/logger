@@ -29,7 +29,7 @@
     "eslint": "^5.3.0",
     "eslint-config-prettier": "^3.0.1",
     "file-coverage-report": "^1.1.0",
-    "jest": "^23.5.0",
+    "jest": "^26.5.3",
     "lint": "^1.1.2"
   }
 }

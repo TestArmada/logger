@@ -23,7 +23,7 @@
   "dependencies": {
     "clc": "^1.0.2",
     "cli-color": "^1.1.0",
-    "yargs": "^7.0.2"
+    "yargs": "^16.1.0"
   },
   "devDependencies": {
     "eslint": "^5.3.0",

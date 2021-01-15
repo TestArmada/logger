@@ -1,3 +1,7 @@
+# :warning::warning: DEPRECATED :warning::warning:
+
+This project, and it's related TestArmada projects, will no longer be supported. No further work from the owners will be done, and no PRs will be reviewed.
+
 # logger
 [![Build Status](https://travis-ci.org/TestArmada/logger.svg?branch=master)](https://travis-ci.org/TestArmada/logger)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
